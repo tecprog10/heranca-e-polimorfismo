@@ -1,0 +1,3 @@
+### 43 - Implementar uma hierarquia de classes para a definição e o cálculo de 
+expressões numéricas. Algumas classes que podem (ou devem) constar desta 
+hierarquia: operando, operador, soma, mult, div, expressão. 
